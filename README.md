@@ -2,7 +2,7 @@
 
 - 🔭 My name is Kingsley Chukwu.
 - 🌱 I am currently a Staff EDA Tools Software Engineer. 
-- 👯 I enjoy reading Technical blogs and doing long distance runs.
+- 👯 I enjoy reading Technical blogs and long-distance running.
 
 Recent Technical blogs.
 
