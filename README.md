@@ -6,8 +6,8 @@
 
 Recent Technical blogs.
 
-https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/  
-https://chukwuk.github.io/blogs/simple-three-layer-neural-network-cuda/index/
+[Kernel Optimization of Euclidean distance Matrix](https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/)  
+[CUDA implementation of a three layer neural network](https://chukwuk.github.io/blogs/simple-three-layer-neural-network-cuda/index/)
 
 <!--
 **chukwuk/chukwuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
