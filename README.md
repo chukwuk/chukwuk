@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Kingsley Chukwu. 
-I am a Staff EDA Tools Software Engineer. 
-I enjoy reading Technical blogs.
+- 🔭 My name is Kingsley Chukwu.
+- 🌱 I am currently a Staff EDA Tools Software Engineer. 
+- 👯 I enjoy reading Technical blogs.
 
 Recent Technical blogs.
 
-https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/
+https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/  
 https://chukwuk.github.io/blogs/simple-three-layer-neural-network-cuda/index/
 
 <!--
