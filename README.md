@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 My name is Kingsley Chukwu.
 - 🌱 I am currently a Staff EDA Tools Software Engineer at Intel Corporation and a part-time GPU Software Engineer (CUDA). 
 - 👯 I enjoy reading Technical blogs and long-distance running.
 
-Recent Technical blogs.
+## Recent Technical blogs.
 
 - [Application of CUDA streams for computing summation of 2D array along the rows](https://chukwuk.github.io/blogs/CUDA_streams/index/)
 - [Kernel Optimization of Euclidean distance Matrix](https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/)
