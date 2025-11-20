@@ -5,7 +5,7 @@
 - 👯 I enjoy reading Technical blogs and long-distance running.
 
 Recent Technical blogs.
-
+[Application of CUDA streams for computing summation of 2D array along the rows](https://chukwuk.github.io/blogs/CUDA_streams/index/)
 [Kernel Optimization of Euclidean distance Matrix](https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/)  
 [CUDA implementation of a three layer neural network](https://chukwuk.github.io/blogs/simple-three-layer-neural-network-cuda/index/)
 
