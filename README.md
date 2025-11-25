@@ -7,7 +7,7 @@
 ## Recent Technical blogs.
 
 - [Application of CUDA streams for computing summation of 2D array along the rows](https://chukwuk.github.io/blogs/CUDA_streams/index/)
-- [How CUDA threads are grouped in a CUDA Warp]((https://chukwuk.github.io/blogs/Identification_of_threads_in_a_warp/index/)
+- [How CUDA threads are grouped in a CUDA Warp](https://chukwuk.github.io/blogs/Identification_of_threads_in_a_warp/index/)
 - [Kernel Optimization of Euclidean distance Matrix](https://chukwuk.github.io/blogs/euclidean-distance-matrix-project/index/)
 - [CUDA implementation of a three layer neural network](https://chukwuk.github.io/blogs/simple-three-layer-neural-network-cuda/index/)
 
