@@ -1,8 +1,9 @@
 # Hi there 👋
 
 - 🔭 My name is Kingsley Chukwu.
-- 🌱 I am currently a Staff EDA Tools Software Engineer at Intel Corporation and a part-time GPU Software Engineer (CUDA). 
-- 👯 I enjoy reading Technical blogs and long-distance running.
+- 🌱 I am currently a Staff EDA Tools Software Engineer at Intel Corporation and a part-time GPU Software Engineer (CUDA).
+- 👯 I enjoy long-distance running
+- 👯 I enjoy reading and writing Technical blogs.
 
 ## Recent Technical blogs.
 
